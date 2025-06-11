@@ -31,8 +31,7 @@ Key Libraries Used
 * Numpy
 * Seaborn
 * Matplotlib
-* Plotly
-* WordCloud (if applicable)
+
 
 Project Objectives
 
